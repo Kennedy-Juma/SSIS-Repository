@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33130.400
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "Control Flow Tasks", "Integration Services Project1\Control Flow Tasks.dtproj", "{C78EBA92-724D-4FDC-8A8D-97B560A3A85D}"
+EndProject
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "Connections", "Connections\Connections.dtproj", "{1EA856FF-CFEE-4997-9DB6-ED75E246B790}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C78EBA92-724D-4FDC-8A8D-97B560A3A85D}.Development|Default.ActiveCfg = Development
+		{C78EBA92-724D-4FDC-8A8D-97B560A3A85D}.Development|Default.Build.0 = Development
+		{1EA856FF-CFEE-4997-9DB6-ED75E246B790}.Development|Default.ActiveCfg = Development
+		{1EA856FF-CFEE-4997-9DB6-ED75E246B790}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11BCE512-EC20-42F5-924D-AD8B2F904932}
+	EndGlobalSection
+EndGlobal

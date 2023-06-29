@@ -1,0 +1,10 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="ProductionServer"
+  DTS:DTSID="{791F99EB-F854-4D3E-8E08-96504833497E}"
+  DTS:CreationName="ADO.NET:SQL">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=KEN-LWS-226;Integrated Security=SSPI;Connect Timeout=30;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
